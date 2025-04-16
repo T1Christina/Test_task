@@ -1,3 +1,2 @@
 # Test_task
-
-![Uploading image.png…]()
+! [image] (https://github.com/T1Christina/Test_task/blob/master/images/image.png)
