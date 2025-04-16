@@ -1,2 +1,2 @@
 # Test_task
-![image](https://github.com/T1Christina/Test_task/blob/master/images/example.png)
+![image](https://github.com/T1Christina/Test_task/blob/master/images/example.jpg)
